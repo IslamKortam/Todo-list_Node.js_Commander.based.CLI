@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "autocompleter": "^6.1.2",
+    "commander": "^9.1.0"
+  }
+}
